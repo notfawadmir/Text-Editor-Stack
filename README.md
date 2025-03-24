@@ -79,9 +79,6 @@ The application uses the following common libraries:
 
 There are no additional external dependencies for this basic functionality.
 
-## **Screenshots**
-*Coming Soon!*
-
 ## **Contribution**
 
 We welcome contributions! Feel free to:
