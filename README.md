@@ -1,1 +1,1 @@
-# C-Text-Editor-Stack
+# Text-Editor-Stack
