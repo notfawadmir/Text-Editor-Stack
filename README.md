@@ -76,8 +76,7 @@ You can also open an issue to report bugs or suggest features.
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-Email: notfawadmir@gmail.com
-
-GitHub: notfawadmir
+- **Email**: [notfawadmir@gmail.com](mailto:notfawadmir@gmail.com)
+- **GitHub**: [notfawadmir](https://github.com/notfawadmir)
 
 Happy Editing! 🎉
