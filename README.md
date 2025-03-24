@@ -77,7 +77,7 @@ For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - **Email**: [notfawadmir@gmail.com](mailto:notfawadmir@gmail.com)
 - **GitHub**: [notfawadmir](https://github.com/notfawadmir)
-- - **Email**: [notfawadmir@gmail.com](mailto:faizamobeen231def@gmail.com)
-- **GitHub**: [notfawadmir](https://github.com/Faizambn)
+- **Email**: [faizamobeendef231@gmail.com](mailto:faizamobeen231def@gmail.com)
+- **GitHub**: [Faizambn](https://github.com/Faizambn)
 
 Happy Editing! 🎉
