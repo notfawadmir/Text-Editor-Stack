@@ -1,4 +1,3 @@
-Here's the README for your **Text Editor** project, structured in a similar way to the **Bus Reservation System** example you provided:
 
 ---
 
